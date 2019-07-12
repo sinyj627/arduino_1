@@ -179,14 +179,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 419"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 419"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 32 1288 32 498")
-        (Scroll "0 18")
-        (Zoom "86")
+        (Placement "44 0 1 -1 -1 -8 -31 32 1288 32 498")
+        (Scroll "0 8")
+        (Zoom "43")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\WORK\ARDUINO\ARDUINO_.DSN")
       (Schematic "SCHEMATIC1")
@@ -194,7 +194,7 @@
     (Doc
       (Type "TextFile")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 32 988 32 377"))
+        (Placement "44 2 3 -1 -1 -8 -31 32 988 32 377"))
       (Path "c:\users\user\desktop\work\arduino\arduino_.drc")
-      (Scroll "0")))
+      (Scroll "3")))
   (MPSSessionName "user"))
