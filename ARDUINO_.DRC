@@ -1,24 +1,10 @@
-Date and Time : 07/12/19 12:02:13
+Date and Time : 08/02/19 10:11:29
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
 --------------------------------------------------
 Checking Electrical Rules 
-WARNING(ORCAP-1829): Possible pin type conflict U1,2  Bidirectional Connected to Power
-                    SCHEMATIC1, PAGE1  (363.22, 33.02) 
-WARNING(ORCAP-1831): Unconnected pin U2,NC/FB 
-                    SCHEMATIC1, PAGE1  (218.69, 81.28) 
-WARNING(ORCAP-1831): Unconnected pin AD,0 
-                    SCHEMATIC1, PAGE1  (406.40, 185.42) 
-WARNING(ORCAP-1831): Unconnected pin AD,PS2 
-                    SCHEMATIC1, PAGE1  (403.86, 185.42) 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections VIN 
-                    SCHEMATIC1, PAGE1  (314.96, 124.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections AD0 
-                    SCHEMATIC1, PAGE1  (391.16, 208.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections AD1 
-                    SCHEMATIC1, PAGE1  (391.16, 205.74) 
 
 Checking For Unconnected Bus Nets

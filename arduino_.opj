@@ -53,18 +53,64 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "FALSE")
-    (BOM_View_Output "TRUE"))
+    (BOM_View_Output "TRUE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\ARDUINO_.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\user\Desktop\work\arduino\ARDUINO.brd"))
   (Folder "Outputs"
     (File ".\arduino_.drc"
       (Type "Report"))
     (File ".\arduino_.bom"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM358
+      (FullPartName "LM358.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "1"))
+    (10134
+      (FullPartName "10134.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\LATCH.OLB")
+      (DeviceIndex "0"))
     (CON6
       (FullPartName "CON6.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CSTCE8M00G52-R0
+      (FullPartName "CSTCE8M00G52-R0.Normal")
       (LibraryName
-         "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+         "C:\USERS\USER\DOCUMENTS\카카오톡 받은 파일\CSTC\CSTCE8M00G52-R0.OLB")
       (DeviceIndex "0"))
     ("SW PUSHBUTTON-SPST-2/SM"
       (FullPartName "SW PUSHBUTTON-SPST-2/SM.Normal")
@@ -83,16 +129,9 @@
       (FullPartName "SW PUSHBUTTON-SPST-2.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (LM358
-      (FullPartName "LM358.Normal")
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
-      (DeviceIndex "0"))
     (LM124
       (FullPartName "LM124.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     ("CAP POL"
       (FullPartName "CAP POL.Normal")
@@ -128,9 +167,6 @@
     (0
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (LED
       (FullPartName "LED.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -157,44 +193,34 @@
       (FullPartName "CON6A.Normal")
       (LibraryName
          "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    (CRYSTAL
-      (FullPartName "CRYSTAL.Normal")
-      (LibraryName
-         "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (FUSE
-      (FullPartName "FUSE.Normal")
-      (LibraryName
-         "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0")))
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\user\Documents\카카오톡 받은 파일\cstc")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\arduino_.dsn")
+      (Path "Design Resources"
+         "c:\users\user\desktop\work\arduino\arduino_.dsn")
+      (Path "Design Resources"
+         "c:\users\user\desktop\work\arduino\arduino_.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Outputs" ".\arduino_.drc"))
+      (Select "Design Resources"
+         "c:\users\user\desktop\work\arduino\arduino_.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 419"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 419"))
       (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -9 -38 32 988 32 377"))
-      (Path "c:\users\user\desktop\work\arduino\arduino_.drc")
-      (Scroll "3"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 32 1288 32 498")
-        (Scroll "0 8")
-        (Zoom "43")
+        (Placement "44 0 1 -1 -1 -8 -31 78 737 78 344")
+        (Scroll "0 256")
+        (Zoom "76")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\WORK\ARDUINO\ARDUINO_.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "user"))
+  (MPSSessionName "user")
+  (ISPCBBASICLICENSE "false"))

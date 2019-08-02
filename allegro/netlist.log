@@ -1,0 +1,21 @@
+{ Using PSTWRITER 17.2.0 d001Aug-02-2019 at 13:36:38 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.8" ignored for U4: SCHEMATIC1, PAGE1 (195.58, 27.94). Connecting pin to net "+5V".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.8" ignored for U4: SCHEMATIC1, PAGE1 (132.08, 30.48). Connecting pin to net "+5V".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.4" ignored for U4: SCHEMATIC1, PAGE1 (132.08, 30.48). Connecting pin to net "+5V".
+#4 WARNING(ORCAP-36006): Part Name "ATMEGA8-TQFP32_2_ATMEGA3_ATMEGA328P-PU" is renamed to "ATMEGA8-TQFP32_2_ATMEGA3_ATMEGA".
+#5 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-SPST-2/SM_0_SW_RESET" is renamed to "SW PUSHBUTTON-SPST-2/SM_0_SW_RE".
+#6 WARNING(ORCAP-36006): Part Name "NC7SZ66/SOT23_3_DIP4_3_NUP1117ST50T3G" is renamed to "NC7SZ66/SOT23_3_DIP4_3_NUP1117S".
+#7 WARNING(ORCAP-36006): Part Name "LP2957/TO_5_DIP6_3_SP2985-33DBVR" is renamed to "LP2957/TO_5_DIP6_3_SP2985-33DBV".
+#8 WARNING(ORCAP-36006): Part Name "ATMEGA8-TQFP32_9_ATMEGA328_ATMEGA16U2-MU(R)" is renamed to "ATMEGA8-TQFP32_9_ATMEGA328_ATME".
+#9 WARNING(ORCAP-36006): Part Name "BA17805T/TO_4_X1_POWERSUPPLY_DC21MMX" is renamed to "BA17805T/TO_4_X1_POWERSUPPLY_DC".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ARDUINO\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ARDUINO\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ARDUINO\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ARDUINO\allegro/pstxnet.dat
+packaging the design view...

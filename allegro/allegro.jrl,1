@@ -1,0 +1,836 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Aug 02 13:24:10 2019
+\t (00:00:03)         Host=SYJ User=user Pid=7292 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\WORK\ARDUINO\allegro\ARDUINO_.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/USERS/USER/DESKTOP/WORK/ARDUINO/allegro/ARDUINO_.brd
+\i (00:00:05) trapsize 6370
+\i (00:00:05) trapsize 6517
+\i (00:00:06) trapsize 9770
+\i (00:00:06) trapsize 10000
+\i (00:00:06) etchedit 
+\i (00:00:08) drag_start grid -9.7998 118.1998
+\i (00:00:08) drag_stop 148.0009 47.1995
+\i (00:00:10) move 
+\i (00:00:10) pick grid 45.4004 99.3997
+\t (00:00:10) last pick:  45.0850 99.6950
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Pick new location for the element(s).
+\i (00:00:11) pick grid 140.8008 62.1996
+\t (00:00:11) last pick:  140.9700 62.2300
+\i (00:00:11) etchedit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 96.0006 67.5996
+\i (00:00:12) trapsize 13342
+\i (00:00:14) pick grid 143.1893 30.0508
+\t (00:00:14) last pick:  142.8750 29.8450
+\i (00:00:15) undo 
+\i (00:00:15) trapsize 10000
+\i (00:00:15) etchedit 
+\i (00:00:16) pick grid 173.2010 114.1998
+\t (00:00:16) last pick:  173.3550 114.3000
+\i (00:00:18) pick grid 171.8010 120.3998
+\t (00:00:18) last pick:  172.0850 120.6500
+\i (00:00:18) setwindow form.find
+\i (00:00:18) FORM find all_on  
+\i (00:00:21) setwindow pcb
+\i (00:00:21) move 
+\t (00:00:21) Select element(s) to move.
+\i (00:00:23) drag_start grid -9.3998 126.3998
+\i (00:00:23) drag_stop 153.0009 44.1995
+\i (00:00:25) pick grid -19.7999 107.3998
+\t (00:00:25) last pick:  -19.6850 107.3150
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:25) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Element has no origin, using pick.
+\t (00:00:26) Pick new location for the element(s).
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out -0.9998 57.5995
+\i (00:00:28) trapsize 13342
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 15.3748 23.3799
+\i (00:00:28) trapsize 13342
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 15.3748 23.3799
+\i (00:00:28) trapsize 13342
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 15.3748 22.8463
+\i (00:00:28) trapsize 13342
+\i (00:00:29) roam start
+\i (00:00:30) roam end
+\i (00:00:34) pick grid -21.9822 48.4625
+\t (00:00:34) last pick:  -22.2250 48.2600
+\i (00:00:37) quickplace 
+\i (00:00:39) prepopup 102.0966 61.0038
+\i (00:00:41) setwindow form.quickplc
+\i (00:00:41) FORM quickplc place  
+\w (00:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:42) FORM quickplc done  
+\i (00:00:42) setwindow pcb
+\i (00:00:42) etchedit 
+\i (00:00:43) prepopup 111.9695 75.1461
+\i (00:00:43) pick grid 93.2910 85.5527
+\t (00:00:43) last pick:  93.3450 85.7250
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 20.7116 78.0813
+\i (00:00:44) trapsize 6671
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 20.7116 78.0814
+\i (00:00:44) trapsize 3335
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 27.1824 74.3457
+\i (00:00:44) trapsize 6671
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 5.5686 63.9391
+\i (00:00:45) trapsize 3335
+\i (00:00:49) done 
+\i (00:00:49) place manual 
+\i (00:00:50) FORM plc_manual placement_list 
+\i (00:00:50) FORM plc_manual categories Components by refdes 
+\i (00:00:50) trapsize 3335
+\i (00:00:51) setwindow form.plc_manual
+\i (00:00:51) FORM plc_manual cancel  
+\i (00:00:51) setwindow pcb
+\i (00:00:51) etchedit 
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 6.1023 55.2670
+\i (00:00:52) trapsize 1668
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 6.3025 55.3337
+\i (00:00:52) trapsize 834
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 10.2550 56.2010
+\i (00:00:53) trapsize 1668
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 10.5219 56.3343
+\i (00:00:53) trapsize 3335
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 10.7221 56.4678
+\i (00:00:53) trapsize 6671
+\i (00:00:54) pick grid 6.1690 57.1349
+\t (00:00:54) last pick:  6.3500 57.1500
+\i (00:00:54) move 
+\t (00:00:55) last pick:  8.2622 55.5008
+\t (00:00:55) Moving U3 / ATMEGA8-TQFP32_9_ATMEGA328_ATME / ATMEGA328.
+\t (00:00:55) Pick new location for the element(s).
+\i (00:00:56) pick grid 9.7713 42.5923
+\t (00:00:56) last pick:  9.5250 42.5450
+\i (00:00:56) etchedit 
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 16.0419 74.4792
+\i (00:00:59) trapsize 13342
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 22.0458 69.2757
+\i (00:00:59) trapsize 6671
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 15.3749 71.8107
+\i (00:01:01) trapsize 3335
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 15.3749 71.8107
+\i (00:01:01) trapsize 1668
+\i (00:01:05) pick grid 13.4070 72.3110
+\t (00:01:05) last pick:  13.3350 72.3900
+\i (00:01:05) move 
+\t (00:01:05) last pick:  19.4045 67.7519
+\t (00:01:05) Moving IC2 / ATMEGA8-TQFP32_2_DIP328_ATMEGA3 / DIP328.
+\t (00:01:05) Pick new location for the element(s).
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 17.6096 73.0115
+\i (00:01:05) trapsize 3335
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 19.5443 72.9447
+\i (00:01:05) trapsize 6671
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 31.6853 72.5445
+\i (00:01:05) trapsize 13342
+\i (00:01:07) pick grid 54.8666 23.6468
+\t (00:01:07) last pick:  54.6100 23.4950
+\i (00:01:07) etchedit 
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 18.0432 51.1309
+\i (00:01:07) trapsize 6671
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 28.3164 77.6811
+\i (00:01:10) trapsize 3335
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 28.3164 77.6811
+\i (00:01:10) trapsize 1668
+\i (00:01:11) pick grid 28.5499 76.0134
+\t (00:01:11) last pick:  28.5750 76.2000
+\i (00:01:11) add connect 
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:12) Pick first element.
+\t (00:01:12) last pick:  31.4568 69.4918
+\i (00:01:12) prepopup 29.4838 76.5804
+\i (00:01:13) oops 
+\t (00:01:13) Pick first element.
+\i (00:01:13) etchedit 
+\i (00:01:14) pick grid 29.2837 76.4136
+\t (00:01:14) last pick:  29.2100 76.2000
+\i (00:01:14) move 
+\t (00:01:14) last pick:  28.1294 74.5718
+\t (00:01:14) Moving IOH / CON10_SIP10_10X1F -H8.5 / SIP10.
+\t (00:01:14) Pick new location for the element(s).
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 31.0515 73.8453
+\i (00:01:14) trapsize 3335
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 31.4517 73.8454
+\i (00:01:14) trapsize 6671
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 31.9854 73.8454
+\i (00:01:14) trapsize 13342
+\i (00:01:15) pick grid 40.4574 31.3850
+\t (00:01:15) last pick:  40.6400 31.1150
+\i (00:01:16) etchedit 
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 9.5045 127.4460
+\i (00:01:16) trapsize 6671
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 9.6379 127.4460
+\i (00:01:16) trapsize 3335
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 16.9092 120.4416
+\i (00:01:17) trapsize 6671
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 11.0388 104.8316
+\i (00:01:19) trapsize 13342
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 8.9708 98.8946
+\i (00:01:21) trapsize 6671
+\i (00:01:22) pick grid 8.8374 94.3584
+\t (00:01:22) last pick:  8.8900 94.6150
+\i (00:01:22) move 
+\t (00:01:22) last pick:  7.6732 89.4902
+\t (00:01:22) Moving ICSP / CON6A_PIN6_3X2 M / PIN6.
+\t (00:01:22) Pick new location for the element(s).
+\i (00:01:23) pick grid 5.6353 65.0064
+\t (00:01:23) last pick:  5.7150 64.7700
+\i (00:01:23) etchedit 
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 46.1944 80.2160
+\i (00:01:26) trapsize 13342
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 83.4181 61.5375
+\i (00:01:26) trapsize 13342
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 53.2656 30.0508
+\i (00:01:29) trapsize 6671
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 52.9988 29.3837
+\i (00:01:29) trapsize 3335
+\i (00:01:41) xrefdes Ic2 
+\i (00:01:41) xname_flush 
+\i (00:01:41) trapsize 3005
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 62.9536 13.3679
+\i (00:01:49) trapsize 6010
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 62.9536 13.3679
+\i (00:01:49) trapsize 12020
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in 19.4776 26.3498
+\i (00:01:50) trapsize 6010
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 39.4314 3.2708
+\i (00:01:57) trapsize 3005
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out 40.3329 3.7517
+\i (00:01:58) trapsize 6010
+\i (00:02:07) zoom out 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 56.5603 1.3476
+\i (00:02:08) trapsize 12020
+\i (00:02:08) zoom out 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 95.6866 -11.1697
+\i (00:02:08) trapsize 13342
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in -13.9771 100.7624
+\i (00:02:08) trapsize 6671
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 59.4029 72.2109
+\i (00:02:12) trapsize 13342
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in -11.8424 138.9200
+\i (00:02:17) trapsize 6671
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 11.7726 128.5134
+\i (00:02:18) trapsize 3335
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 11.7726 128.5134
+\i (00:02:18) trapsize 1668
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 11.5392 123.4436
+\i (00:02:19) trapsize 3335
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 17.9432 126.3120
+\i (00:02:20) trapsize 6671
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 24.4807 111.1690
+\i (00:02:21) trapsize 3335
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 33.6199 119.4409
+\i (00:02:27) trapsize 6671
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 33.7533 118.5070
+\i (00:02:27) trapsize 13342
+\i (00:02:27) zoom in 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom in 19.1106 54.0661
+\i (00:02:27) trapsize 6671
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in 59.8031 18.0433
+\i (00:02:43) trapsize 3335
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 52.8654 29.9842
+\i (00:02:44) trapsize 6671
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 53.3990 13.3069
+\i (00:02:44) trapsize 3335
+\i (00:03:05) exit 
+\e (00:03:05) Do you want to save the changes you made to ARDUINO_.brd?
+\i (00:03:06) fillin no 
+\t (00:03:06)     Journal end - Fri Aug 02 13:27:14 2019

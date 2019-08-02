@@ -1,0 +1,473 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  1            pins ADDED TO this new net
+                                 C9.2           C11.2          R1.1           
+                                 R1.2           R12.2          R13.1          
+                                 RN3A.2         RN3B.1         U3.1           
+                                 U3.2           U3.30          U4.3           
+                                 Y1.1           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5            pins ADDED TO this new net
+                                 J1.3           ON.2           RN3C.2         
+                                 RN3D.1         RN4C.2         RN4D.2         
+                                 Z1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +3V3         pins ADDED TO this new net
+                                 C3.2           POWER.4        U2.5           
+                                 U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 C1.1           C1.2           C2.1           
+                                 C2.2           C3.1           C4.2           
+                                 C6.1           C6.2           C7.1           
+                                 C7.2           C9.1           C11.1          
+                                 C12.1          C13.1          D2.1           
+                                 D3.1           IC2.7          IC2.8          
+                                 IC2.20         IC2.22         ICSP1.2        
+                                 ICSP1.6        ICSP.2         ICSP.6         
+                                 IOH.7          J1.2           L.1            
+                                 ON.1           PC1.2          PC2.1          
+                                 PC2.2          POWER.2        POWER.5        
+                                 POWER.6        POWER.7        POWER.8        
+                                 R12.1          R13.2          RN1C.1         
+                                 RN1D.1         RN2B.2         RN2C.2         
+                                 RN2D.2         RN3A.1         RN3B.2         
+                                 RN3C.1         RN3D.2         RN4C.1         
+                                 RN4D.1         SW1.1          SW2.1          
+                                 SW2.2          T1.4           U1.1           
+                                 U1.2           U1.4           U2.1           
+                                 U2.2           U2.3           U3.3           
+                                 U3.4           U3.6           U3.29          
+                                 U3.32          U4.4           U4.8           
+                                 X1.1           X1.3           Z2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD0          pins ADDED TO this new net
+                                 6X1F-H8.5.6    IC2.23         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD1          pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 6X1F-H8.5.5    IC2.24         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD2          pins ADDED TO this new net
+                                 6X1F-H8.5.4    IC2.25         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD3          pins ADDED TO this new net
+                                 6X1F-H8.5.3    IC2.26         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD4/SDA      pins ADDED TO this new net
+                                 6X1F-H8.5.2    IC2.27         IOH.9          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD5/SCL      pins ADDED TO this new net
+                                 6X1F-H8.5.1    IC2.28         IOH.10         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AREF         pins ADDED TO this new net
+                                 C4.1           IC2.21         IOH.8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CSK2         pins ADDED TO this new net
+                                 ICSP1.3        U3.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO0          pins ADDED TO this new net
+                                 IC2.2          IOL.1          RN4B.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO1          pins ADDED TO this new net
+                                 IC2.3          IOL.2          RN4A.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO2          pins ADDED TO this new net
+                                 IC2.4          IOL.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO3          pins ADDED TO this new net
+                                 IC2.5          IOL.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO4          pins ADDED TO this new net
+                                 IC2.6          IOL.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO5          pins ADDED TO this new net
+                                 IC2.11         IOL.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO6          pins ADDED TO this new net
+                                 IC2.12         IOL.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO7          pins ADDED TO this new net
+                                 IC2.13         IOL.8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO8          pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 IC2.14         IOH.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO9          pins ADDED TO this new net
+                                 IC2.15         IC2.16         IOH.2          
+                                 IOH.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L13          pins ADDED TO this new net
+                                 RN2A.1         U4.6           U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  M8RXD        pins ADDED TO this new net
+                                 RN4B.1         U3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  M8TXD        pins ADDED TO this new net
+                                 RN4A.1         U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO2        pins ADDED TO this new net
+                                 ICSP1.1        U3.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 IC2.17         ICSP.4         IOH.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI2        pins ADDED TO this new net
+                                 ICSP1.4        U3.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06680       pins ADDED TO this new net
+                                 C5.1           RN2D.1         U3.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09729       pins ADDED TO this new net
+                                 RN2C.1         TX.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10359       pins ADDED TO this new net
+                                 IC2.19         ICSP.3         IOH.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14807       pins ADDED TO this new net
+                                 T1.3           U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20263       pins ADDED TO this new net
+                                 D1.1           PC1.1          U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N096150      pins ADDED TO this new net
+                                 RN2B.1         RX.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N183381      pins ADDED TO this new net
+                                 L.2            RN2A.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PB4          pins ADDED TO this new net
+                                 JP2.1          U3.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins ADDED TO this new net
+                                 JP2.3          U3.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB6          pins ADDED TO this new net
+                                 JP2.2          U3.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB7          pins ADDED TO this new net
+                                 JP2.4          U3.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWRIN        pins ADDED TO this new net
+                                 D1.2           X1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET2       pins ADDED TO this new net
+                                 D3.2           ICSP1.5        RN1C.2         
+                                 U3.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 C5.2           D2.2           IC2.1          
+                                 ICSP.5         POWER.3        RESET-EN.1     
+                                 RESET-EN.2     RN1D.2         SW2.3          
+                                 SW2.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXLED        pins ADDED TO this new net
+                                 RX.1           U3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 IC2.18         ICSP.1         IOH.5          
+                                 U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TP_VUCAP     pins ADDED TO this new net
+                                 C8.2           U3.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TXLED        pins ADDED TO this new net
+                                 TX.1           U3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UGND         pins ADDED TO this new net
+                                 C8.1           J1.4           L1.1           
+                                 SW1.2          U3.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBVCC       pins ADDED TO this new net
+                                 F1.2           T1.2           U3.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  USHIELD      pins ADDED TO this new net
+                                 J1.5           J1.6           L1.2           
+                                 Z1.2           Z2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL1        pins ADDED TO this new net
+                                 C13.2          CSTCE16M0V53-R0.1 
+                                 IC2.9          R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL2        pins ADDED TO this new net
+                                 C12.2          CSTCE16M0V53-R0.2 
+                                 IC2.10         R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XUSB         pins ADDED TO this new net
+                                 F1.1           J1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA8-TQFP32_2_DIP328_ATMEGA3
+ ATMEGA8-TQFP32_9_ATMEGA328_ATME
+ BA17805T/TO_4_X1_POWERSUPPLY_DC
+ BEAD_BE_BLM21
+ CAP NP_SMDCAP_100N
+ CAP NP_SMDCAP_1U
+ CAP NP_SMDCAP_22P
+ CAP POL_CAP196_47U
+ CON10_SIP10_10X1F -H8.5
+ CON4A_JUMPER4_2X2 M - NM
+ CON6A_PIN6_3X2 M
+ CON6_5_SIP6_AD
+ CON6_6_SIP6_CON6
+ CON8_JUMPER8_8X1F -H8.5
+ CON8_SIP8_8X1F -H8.5
+ DIODE_DO35_CD1206-S01575
+ DIODE_DO35_M7
+ FUSE_FUSE_500MA
+ LED_SML0805_GREEN
+ LED_SML0805_YELLOW
+ LM358_13_DIP8_3_LM358
+ LP2957/TO_5_DIP6_3_SP2985-33DBV
+ NC7SZ66/SOT23_3_DIP4_3_NUP1117S
+ NDC7003P/SOT_DIP6_3_FND340P
+ R2_SMDRES_10K
+ R2_SMDRES_1K
+ R2_SMDRES_1M
+ R2_SMDRES_22P
+ R2_SMDRES_22R
+ SW KEY-SPST_CAPCK06_SW KEY-SPST
+ SW PUSHBUTTON-SPST-2/SM_0_SW_RE
+ VARISTOR_BE_CG0603ML C-05E
+ VARISTOR_BE_CG0603MLC-05E
+ ZTA_16M_16MHZ
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 6X1F-H8.5           CON6_5_SIP6_AD        
+ C1                  CAP NP_SMDCAP_100N    
+ C2                  CAP NP_SMDCAP_100N    
+ C3                  CAP NP_SMDCAP_1U      
+ C4                  CAP NP_SMDCAP_100N    
+ C5                  CAP NP_SMDCAP_100N    
+ C6                  CAP NP_SMDCAP_100N    
+ C7                  CAP NP_SMDCAP_100N    
+ C8                  CAP NP_SMDCAP_1U      
+ C9                  CAP NP_SMDCAP_22P     
+ C11                 CAP NP_SMDCAP_22P     
+ C12                 CAP NP_SMDCAP_22P     
+ C13                 CAP NP_SMDCAP_22P     
+ CSTCE16M0V53-R0     ZTA_16M_16MHZ         
+ D1                  DIODE_DO35_M7         
+ D2                  DIODE_DO35_CD1206-S01575 
+ D3                  DIODE_DO35_CD1206-S01575 
+ F1                  FUSE_FUSE_500MA       
+ IC2                 ATMEGA8-TQFP32_2_DIP328_ATMEGA3 
+ ICSP1               CON6A_PIN6_3X2 M      
+ ICSP                CON6A_PIN6_3X2 M      
+ IOH                 CON10_SIP10_10X1F -H8.5 
+ IOL                 CON8_SIP8_8X1F -H8.5  
+ J1                  CON6_6_SIP6_CON6      
+ JP2                 CON4A_JUMPER4_2X2 M - NM 
+ L1                  BEAD_BE_BLM21         
+ L                   LED_SML0805_YELLOW    
+ ON                  LED_SML0805_GREEN     
+ PC1                 CAP POL_CAP196_47U    
+ PC2                 CAP POL_CAP196_47U    
+ POWER               CON8_JUMPER8_8X1F -H8.5 
+ R1                  R2_SMDRES_1M          
+ R2                  R2_SMDRES_1M          
+ R12                 R2_SMDRES_10K         
+ R13                 R2_SMDRES_10K         
+ RESET-EN            SW KEY-SPST_CAPCK06_SW KEY-SPST 
+ RN1C                R2_SMDRES_10K         
+ RN1D                R2_SMDRES_10K         
+ RN2A                R2_SMDRES_1K          
+ RN2B                R2_SMDRES_1K          
+ RN2C                R2_SMDRES_1K          
+ RN2D                R2_SMDRES_1K          
+ RN3A                R2_SMDRES_22P         
+ RN3B                R2_SMDRES_22R         
+ RN3C                R2_SMDRES_22R         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ RN3D                R2_SMDRES_22P         
+ RN4A                R2_SMDRES_1K          
+ RN4B                R2_SMDRES_1K          
+ RN4C                R2_SMDRES_1K          
+ RN4D                R2_SMDRES_1K          
+ RX                  LED_SML0805_YELLOW    
+ SW1                 SW KEY-SPST_CAPCK06_SW KEY-SPST 
+ SW2                 SW PUSHBUTTON-SPST-2/SM_0_SW_RE 
+ T1                  NDC7003P/SOT_DIP6_3_FND340P 
+ TX                  LED_SML0805_YELLOW    
+ U1                  NC7SZ66/SOT23_3_DIP4_3_NUP1117S 
+ U2                  LP2957/TO_5_DIP6_3_SP2985-33DBV 
+ U3                  ATMEGA8-TQFP32_9_ATMEGA328_ATME 
+ U4                  LM358_13_DIP8_3_LM358 
+ X1                  BA17805T/TO_4_X1_POWERSUPPLY_DC 
+ Y1                  ZTA_16M_16MHZ         
+ Z1                  VARISTOR_BE_CG0603ML C-05E 
+ Z2                  VARISTOR_BE_CG0603MLC-05E 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 6X1F-H8.5.6                    PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ CSTCE16M0V53-R0.2                 PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ F1.2                           PRIM_FILE      .\pstchip.dat
+ IC2.10                         PRIM_FILE      .\pstchip.dat
+ ICSP1.6                        PRIM_FILE      .\pstchip.dat
+ ICSP.6                         PRIM_FILE      .\pstchip.dat
+ IOH.9                          PRIM_FILE      .\pstchip.dat
+ IOL.8                          PRIM_FILE      .\pstchip.dat
+ J1.6                           PRIM_FILE      .\pstchip.dat
+ JP2.4                          PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L.1                            PRIM_FILE      .\pstchip.dat
+ ON.1                           PRIM_FILE      .\pstchip.dat
+ PC1.2                          PRIM_FILE      .\pstchip.dat
+ PC2.2                          PRIM_FILE      .\pstchip.dat
+ POWER.8                        PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ RESET-EN.2                     PRIM_FILE      .\pstchip.dat
+ RN1C.2                         PRIM_FILE      .\pstchip.dat
+ RN1D.2                         PRIM_FILE      .\pstchip.dat
+ RN2A.2                         PRIM_FILE      .\pstchip.dat
+ RN2B.2                         PRIM_FILE      .\pstchip.dat
+ RN2C.2                         PRIM_FILE      .\pstchip.dat
+ RN2D.2                         PRIM_FILE      .\pstchip.dat
+ RN3A.2                         PRIM_FILE      .\pstchip.dat
+ RN3B.2                         PRIM_FILE      .\pstchip.dat
+ RN3C.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/arduino/ARDUINO.brd                              |
+|                                                    Fri Aug 02 13:24:06 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ RN3D.2                         PRIM_FILE      .\pstchip.dat
+ RN4A.2                         PRIM_FILE      .\pstchip.dat
+ RN4B.2                         PRIM_FILE      .\pstchip.dat
+ RN4C.2                         PRIM_FILE      .\pstchip.dat
+ RN4D.2                         PRIM_FILE      .\pstchip.dat
+ RX.1                           PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ SW2.4                          PRIM_FILE      .\pstchip.dat
+ T1.2                           PRIM_FILE      .\pstchip.dat
+ TX.1                           PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.5                           PRIM_FILE      .\pstchip.dat
+ U3.2                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+ U4.5                           PRIM_FILE      .\pstchip.dat
+ X1.3                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+ Z1.2                           PRIM_FILE      .\pstchip.dat
+ Z2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     225                                        |
+|       Comp definitions added:      34                                        |
+|       Components added      :      63                                        |
+|       Slot property added   :      64                                        |
+|                                                                              |
+|   Total ECO changes reported:     386                                        |
+|------------------------------------------------------------------------------|

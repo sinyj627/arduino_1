@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : ARDUINO_.brd                                  )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 02 15:36:22 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/USERS/USER/DESKTOP/WORK/ARDUINO/allegro/gerber' ...
+
+
+
+     'ARDUINO_-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3302    0.0000/  0.0000      PLATED         46
+            2.   0.6350    0.0000/  0.0000      PLATED          6
+            3.   0.8000    0.0000/  0.0000      PLATED          4
+            4.   0.9144    0.0000/  0.0000      PLATED         70
+            5.   0.9900    0.0000/  0.0000      PLATED          4
+            6.   1.0668    0.0000/  0.0000      PLATED          4
+            7.   1.1176    0.0000/  0.0000      PLATED         28
+            8.   1.1800    0.0000/  0.0000      PLATED          3
+
+     ---- Total holes:                                        165
+
+     ---- Total head travel:              6.44 feet (1.96 meters)
+
